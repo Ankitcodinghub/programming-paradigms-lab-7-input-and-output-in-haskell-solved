@@ -1,0 +1,1 @@
+# programming-paradigms-lab-7-input-and-output-in-haskell-solved
